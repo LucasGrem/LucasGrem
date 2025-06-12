@@ -52,8 +52,8 @@ Me chamo Lucas Grem, tenho 18 anos e moro em Suzano, São Paulo. Atualmente, cur
 
 <img 
     align="left" 
-    alt="CSS"
-    title="CSS" 
+    alt="python"
+    title="python" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -89,13 +89,13 @@ Me chamo Lucas Grem, tenho 18 anos e moro em Suzano, São Paulo. Atualmente, cur
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasGrem&show_icons=true&theme=cobalt&incluide_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasgrem&show_icons=true&theme=cobalt&incluide_all_commits=true&locale=pt-br" 
 />
 
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGrem&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrem&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
           
