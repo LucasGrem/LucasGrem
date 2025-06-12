@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frond-end`**
 
-Me chamo Lucas Grem, tenho 18 anos e moro em Suzano, São Paulo. Atualmente, curso Engenharia de Software na Cruzeiro do Sul Virtual e venho me qualificando por meio de cursos nas áreas de Python, JavaScript, HTML, CSS, Excel Avançado e Power BI, com formações pelo SENAI e Curso em Vídeo. Sou apaixonado por tecnologia e estou em constante busca por aprendizado e crescimento como desenvolvedor.
+Me chamo Lucas Grem, tenho 18 anos, moro em Suzano, São Paulo. Atualmente, curso Engenharia de Software na Cruzeiro do Sul Virtual e venho me qualificando por meio de cursos nas áreas de Python, JavaScript, HTML, CSS, Excel Avançado e Power BI, com formações pelo SENAI e Curso em Vídeo. Sou apaixonado por tecnologia e estou em constante busca por aprendizado e crescimento como desenvolvedor.
 
 <p align="left">
     <a href="https://github.com/LucasGrem?tab=followers">
@@ -12,7 +12,7 @@ Me chamo Lucas Grem, tenho 18 anos e moro em Suzano, São Paulo. Atualmente, cur
             src="https://custom-icon-badges.demolab.com/github/followers/LucasGrem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-        <a href="https://github.com/LucasGrem?tab=repositories&sort=stargazers">
+        <a href="https://github.com/LucasGrem?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -93,9 +93,8 @@ Me chamo Lucas Grem, tenho 18 anos e moro em Suzano, São Paulo. Atualmente, cur
 />
 
 <img 
-      align="center" 
+      align="left" 
       alt="GitHub Stats" 
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrem&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-          
