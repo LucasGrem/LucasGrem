@@ -4,25 +4,26 @@
 
 Me chamo Lucas Grem, tenho 18 anos, moro em Suzano, São Paulo. Atualmente, curso Engenharia de Software na Cruzeiro do Sul Virtual e venho me qualificando por meio de cursos nas áreas de Python, JavaScript, HTML, CSS, Excel Avançado e Power BI, com formações pelo SENAI e Curso em Vídeo. Sou apaixonado por tecnologia e estou em constante busca por aprendizado e crescimento como desenvolvedor.
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/LucasGrem?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Seguir" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasGrem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasGrem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguir&logoColor=white"
         />
     </a>
-        <a href="https://github.com/LucasGrem?tab=repositories&sort=stargazers" target="_blank">
+    <a href="https://github.com/LucasGrem?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/LucasGrem?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&label=estrelas"
         />
+    </a>
     <a href="https://www.linkedin.com/in/lucas-grem-762413345/">
         <img 
         alt="LinkedIn Profile" 
         title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?logo=linke&logoColor=236ad3&style=for-the-badge&labelColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linke&logoColor=236ad3&style=for-the-badge&labelColor=white"
         />
     </a>
 </p>
