@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Lucas Grem
 
-**`Desenvolvedor Frond-end`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Lucas Grem, tenho 18 anos, moro em Suzano, São Paulo. Atualmente, curso Engenharia de Software na Cruzeiro do Sul Virtual e venho me qualificando por meio de cursos nas áreas de Python, JavaScript, HTML, CSS, Excel Avançado e Power BI, com formações pelo SENAI e Curso em Vídeo. Sou apaixonado por tecnologia e estou em constante busca por aprendizado e crescimento como desenvolvedor.
 
